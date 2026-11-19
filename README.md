@@ -119,4 +119,4 @@ npm run build
 
 ⭐ Thank you for visiting my portfolio!
 
-I am always interested in connecting with professionals, collaborating on data engineering projects, and exploring new opportunities.
+I am always interested in connecting with professionals, collaborating on data engineering projects, and exploring a new opportunities.
