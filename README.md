@@ -120,4 +120,3 @@ npm run build
 ⭐ Thank you for visiting my portfolio!
 
 I am always interested in connecting with professionals, collaborating on data engineering projects, and exploring new opportunities.
->>>>>>> bd86f78aaa09296058b6f922d271e33fec9a9821
