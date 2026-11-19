@@ -8,7 +8,7 @@ This portfolio showcases my technical skills, professional experience, projects,
 ## 🚀 About Me
 
 - **Role:** Data Engineer
-- **Experience:** 3+ Years
+- **Experience:** 2.5+ Years
 - **Primary Languages:** Python, SQL
 - **Cloud Platform:** AWS
 - **Data Engineering:** PySpark, ETL/ELT, Data Warehousing
